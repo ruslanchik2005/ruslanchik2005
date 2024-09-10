@@ -1,4 +1,4 @@
-## Hi there 👋
+## Салам алейкум
 
 <!--
 **ruslanchik2005/ruslanchik2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Я студентик, живу и развлекаюсь
