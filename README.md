@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Я студентик, живу и развлекаюсь
+Я студентик, живу и развлекаюсь, сейчас учу Swift)))
